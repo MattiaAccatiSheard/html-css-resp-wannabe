@@ -1,0 +1,17 @@
+.blu {
+    background-color: #232946;
+    color: aliceblue;
+    text-align: center;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.box-container {
+    display: flex;
+}
+
+.box-container > .box{
+
+}
